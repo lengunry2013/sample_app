@@ -7,6 +7,8 @@ gem 'rubyzip',  "~> 0.9.9"
 
 gem'bootstrap-sass','2.3.2.0'
 
+gem 'bcrypt-ruby', '~> 3.1.2'
+
 # Use sqlite3 as the database for Active Record
 #gem 'sqlite3'
 group :development,:test do
